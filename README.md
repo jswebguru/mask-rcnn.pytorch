@@ -1,8 +1,7 @@
-**Use this instead: https://github.com/facebookresearch/maskrcnn-benchmark**
 
 # A Pytorch Implementation of Detectron
 
-[![Build Status](https://travis-ci.com/roytseng-tw/Detectron.pytorch.svg?branch=master)](https://travis-ci.com/roytseng-tw/Detectron.pytorch)
+[![Build Status](https://travis-ci.com/roytseng-tw/Detectron.pytorch.svg?branch=master)](https://travis-ci.com/jswebguru/Detectron.pytorch)
 
 <div align="center">
 
